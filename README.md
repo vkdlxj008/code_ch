@@ -1,5 +1,5 @@
 Tic Tac Toe
-A simple Tic Tac Toe game implemented in Python. This project includes a graphical user interface (GUI) using the Turtle graphics library for drawing the game board and Tkinter for dialogs.
+A simple Tic Tac Toe game implemented in Python. This project includes a graphical user interface (GUI) using the Turtle graphics library for drawing the game board and Tkinter for dialogs. I've spent all four hours working on this code.
 
 Files
 board.py: Manages the game board state and game logic.
