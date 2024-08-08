@@ -3,14 +3,21 @@ A simple Tic Tac Toe game implemented in Python. This project includes a graphic
 
 
 Files
-board.py: Manages the game board state and game logic.\n
-computer.py: Contains the AI logic for the computer player.\n
-draw.py: Handles drawing the game board and pieces using Turtle graphics.\n
+board.py: Manages the game board state and game logic.
+
+computer.py: Contains the AI logic for the computer player.
+
+draw.py: Handles drawing the game board and pieces using Turtle graphics.
+
 main.py: The entry point of the game. Initializes the game, manages player input, and controls game flow.
 
+TTT_blueprint.jpg: It is a brief blueprint of how to approach this coding challenge.
+
 Features
-Player vs. Computer: Play against a basic AI.\n
-GUI Interface: Uses Turtle graphics to display the game board and Tkinter for dialog boxes.\n
+Player vs. Computer: Play against a basic AI.
+
+GUI Interface: Uses Turtle graphics to display the game board and Tkinter for dialog boxes.
+
 Replay Option: After a game ends, choose to play again or exit.
 
 License
