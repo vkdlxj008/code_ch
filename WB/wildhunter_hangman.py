@@ -26,13 +26,11 @@ class WildHuntHangman:
         pygame.display.set_caption("The Wild Hunt: Wordbound")
         self.clock = pygame.time.Clock()
 
-        # 폰트 설정
         self.title_font = pygame.font.Font(None, 72)
         self.main_font = pygame.font.Font(None, 48)
         self.small_font = pygame.font.Font(None, 32)
         self.feedback_font = pygame.font.Font(None, 40)
 
-        # 게임 상태
         self.game_state = "welcome"  # welcome, playing, game_over, win
         self.current_word = ""
         self.guessed_letters = set()
